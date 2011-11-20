@@ -1,0 +1,8 @@
+; $Id$
+name = DNotes content display
+description = <a href="http://dnotes.net">DNotes</a> helper module for content display setup and options
+package = Other
+core = 7.x
+dependencies[] = colorbox
+dependencies[] = image
+dependencies[] = nodeformcols
